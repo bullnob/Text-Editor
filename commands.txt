@@ -1,0 +1,17 @@
+[ENTER] - Go back
+
+Commands List:
+
+- To enter View Mode (default) : Esc
+
+
+* Following Commands work only in view mode:
+- To Quit: Q
+- To enter Edit Mode: E
+- To actually Save your work : W
+- Copy current line : C
+- Paste copied line : P
+- Cut current line : D
+- Save the progress in a buffer : S 
+- Restore the last saved buffer : U
+
